@@ -1,12 +1,12 @@
 # ImdbScraper
 
-#Overview
+## Overview
 
 An Imdb webscraper built in nodejs. Capable of searching for any movie in Imdb database and displaying results.
 Using the client, you can click the link and taken to the actual movie with picture and information.
 
 
-#Installation
+## Installation
 After cloneing project navigate to webScraper folder. Install:
 
 
@@ -30,4 +30,14 @@ Now you are capable of using "now" to host the scraper online. Using now add the
 
 then navigate to webScraperClient folder run the code in localhost. ENJOY!
 
+## Dependencies
 
+   	Cheerio
+	Cors
+	Express
+	node-fetch
+
+## Dev-Dependencies
+	
+	nodemon
+	now
