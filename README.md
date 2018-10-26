@@ -1,6 +1,4 @@
 # ImdbScraper
-An imdb scraper 
-
 
 #Overview
 
