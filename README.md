@@ -1,4 +1,4 @@
-# imdbScraper
+# ImdbScraper
 An imdb scraper 
 
 
