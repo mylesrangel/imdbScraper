@@ -7,7 +7,7 @@ Using the client, you can click the link and taken to the actual movie with pict
 
 
 ## Installation
-After cloneing project navigate to webScraper folder. Install:
+After cloning the project navigate to webScraper folder. Install:
 
 
 
