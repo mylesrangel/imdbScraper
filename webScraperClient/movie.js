@@ -57,10 +57,10 @@ function showMovie(movie){
 
 		<section class="row">
 			<h1 class = "text-center"> ${movie.title} </h1>
-			<div class = "col-sm-12">
+			<div class = "col-sm-6">
 				<img src="${movie.moviePoster}" class="img-fluid" />
 			</div>
-			<div class="col-sm-12">
+			<div class="col-sm-6">
 			<dl class="row">
 				  ${descriptionHTML}
 				</dl>

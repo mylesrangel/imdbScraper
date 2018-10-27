@@ -30,6 +30,7 @@ Now you are capable of using "now" to host the scraper online. Using now add the
 
 then navigate to webScraperClient folder run the code in localhost. ENJOY!
 
+
 ## Dependencies
 
    	Cheerio
